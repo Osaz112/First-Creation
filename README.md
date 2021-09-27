@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Osaz112
-- 👀 I’m interested ii data analytics
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning dax and R
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
